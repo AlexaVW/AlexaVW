@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
+## 🎓 About Me
+I'm currently studying **System Development** at *Campus Nyköping*.  
+Passionate about building scalable applications and continuously improving my development skills.
+
+## 💻 Tech Stack & Competencies
+Here are some of the technologies I work with:
+
+- 💙 **C#**
+- ⚙️ **.NET**
+- 🗄️ **SQL**
+- 🧩 **Entity Framework**
+- ☁️ **Azure**
+- 🍃 **MongoDB**
+
+## 🚀 What I'm Focused On
+- Strengthening my backend development skills
+- Building modern, cloud-based applications
+- Writing clean, maintainable code<!--
 **AlexaVW/AlexaVW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
