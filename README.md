@@ -18,5 +18,5 @@ Here are some of the technologies I work with:
 - Strengthening my backend development skills
 - Building modern, cloud-based applications
 - Writing clean, maintainable code<!--
-**AlexaVW/AlexaVW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
