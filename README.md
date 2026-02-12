@@ -4,7 +4,7 @@
 I'm currently studying **System Development** at *Campus Nyköping*.  
 Passionate about building scalable applications and continuously improving my development skills.
 
-## 💻 Tech Stack & Competencies
+## 💻 Competencies
 Here are some of the technologies I work with:
 
 - 💙 **C#**
@@ -14,7 +14,7 @@ Here are some of the technologies I work with:
 - ☁️ **Azure**
 - 🍃 **MongoDB**
 
-## 🚀 What I'm Focused On
+## 🚀 My Goal
 - Strengthening my backend development skills
 - Building modern, cloud-based applications
 - Writing clean, maintainable code<!--
