@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 🎓 About Me
 I'm currently studying **System Development** at *Campus Nyköping*.  
 Passionate about building scalable applications and continuously improving my development skills.
