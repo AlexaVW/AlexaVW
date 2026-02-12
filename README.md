@@ -15,6 +15,6 @@ Here are some of the technologies I work with:
 ## 🚀 My Goal
 - Strengthening my backend development skills
 - Building modern, cloud-based applications
-- Writing clean, maintainable code<!--
+- Writing clean, maintainable code-
 
 
