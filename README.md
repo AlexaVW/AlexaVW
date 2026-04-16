@@ -4,16 +4,15 @@ I'm currently studying **System Development** at *Campus Nyköping*.
 ## 💻 Experience
 Technologies I work with:
 
-💙 **C#**
-</br>
-⚙️ **.NET**
-📱 **MAUI**
+💙 **C#** </br>
+⚙️ **.NET** </br>
+📱 **MAUI** </br></br>
 
-🗄️ **SQL**
-🧩 **Entity Framework**
-🍃 **MongoDB**
-☁️ **Azure**
+🗄️ **SQL** </br>
+🧩 **Entity Framework** </br>
+🍃 **MongoDB** </br>
+☁️ **Azure** </br></br>
 
-🎨 **CSS**
-📜 **JavaScript**
-🧱 **HTML**
+🎨 **CSS** </br>
+📜 **JavaScript** </br>
+🧱 **HTML** </br>
