@@ -12,5 +12,5 @@ Technologies I work with:
 - 🍃 **MongoDB**
 - 📱 **MAUI**
 - 🎨 **CSS**
--📜 **JavaScript**
--🧱 **HTML**
+- 📜 **JavaScript**
+- 🧱 **HTML**
