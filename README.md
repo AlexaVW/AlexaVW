@@ -10,4 +10,7 @@ Technologies I work with:
 - 🧩 **Entity Framework**
 - ☁️ **Azure**
 - 🍃 **MongoDB**
-- 📱**MAUI**
+- 📱 **MAUI**
+- 🎨 **CSS**
+-📜 **JavaScript**
+-🧱 **HTML**
