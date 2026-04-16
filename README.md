@@ -6,11 +6,13 @@ Technologies I work with:
 
 - 💙 **C#**
 - ⚙️ **.NET**
+- 📱 **MAUI**
+-
 - 🗄️ **SQL**
 - 🧩 **Entity Framework**
-- ☁️ **Azure**
 - 🍃 **MongoDB**
-- 📱 **MAUI**
+- ☁️ **Azure**
+
 - 🎨 **CSS**
 - 📜 **JavaScript**
 - 🧱 **HTML**
