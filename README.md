@@ -15,4 +15,5 @@ Technologies I work with:
 
 🎨 **CSS** </br>
 📜 **JavaScript** </br>
+🔷 **TypeScript** </br>
 🧱 **HTML** </br>
