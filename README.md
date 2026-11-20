@@ -17,3 +17,4 @@ Technologies I work with:
 📜 **JavaScript** </br>
 🔷 **TypeScript** </br>
 🧱 **HTML** </br>
+🧡 **Svelte** </br>
